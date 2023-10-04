@@ -31,5 +31,4 @@ Applied Soft Margin SVM to identify racist tweets.
 Repository Contents:
 text-classification part in code: Holds code related to the Text Classification and identifying racist tweets.
 
-Project Structure
-The project is organized into separate directories for each part, providing a clear structure for navigating the code and analyses
+
